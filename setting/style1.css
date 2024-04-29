@@ -1,0 +1,21 @@
+
+.container{
+    border: 2px solid skyblue;
+    width: 850px;
+    margin-top: 20px;
+    height: 473px;
+}
+
+
+img{
+    margin-top:auto;
+    margin-left:auto;
+    width: 400px;
+    height: 445px;
+    border: 2px solid skyblue;
+}
+.uploade input{
+    position: absolute;
+    margin-top:450px;
+    margin-left:-402px;
+}
